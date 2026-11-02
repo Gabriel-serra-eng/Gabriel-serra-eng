@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Gabriel Serra. Marketing, IA, tecnologia e automação: sistemas de aquisição de clientes, do anúncio ao lead qualificado." width="100%" />
+<img src="./assets/banner-v2.svg" alt="Gabriel Serra. Marketing, IA, tecnologia e automação: sistemas de aquisição de clientes, do anúncio ao lead qualificado." width="100%" />
 
 <br />
 
