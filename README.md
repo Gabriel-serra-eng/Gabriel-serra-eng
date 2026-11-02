@@ -6,6 +6,13 @@
 
 <a href="https://bielstrategy.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1200&color=E21D48&center=true&vCenter=true&width=640&lines=Tr%C3%A1fego+pago+que+vira+lead+qualificado;Sites+e+funis+em+Next.js+%2B+Supabase;Desenvolvimento+conduzido+com+agentes+de+IA" alt="Tráfego pago que vira lead qualificado · Sites e funis em Next.js + Supabase · Desenvolvimento conduzido com agentes de IA" /></a>
 
+<br />
+
+<a href="https://bielstrategy.com/"><img src="https://img.shields.io/badge/bielstrategy.com-E21D48?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site bielstrategy.com" /></a>
+<a href="https://www.linkedin.com/in/gabriel-santos-315397150/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/biel.strategy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @biel.strategy" /></a>
+<a href="https://www.facebook.com/profile.php?id=61581976716136"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+
 </div>
 
 ## Sobre
@@ -150,6 +157,12 @@ Uso agentes de IA em etapas definidas, e cada etapa deixa um documento no reposi
 
 <img src="./assets/numeros.svg" alt="Em números: 1 site em produção, cerca de 7.200 linhas de TypeScript e CSS, 2 migrations SQL com RLS, 40 commits com Claude Code. Linguagens: TypeScript 80,6%, CSS 16,7%, SQL 1,8%, JavaScript 1,0%." width="100%" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabriel-serra-eng/Gabriel-serra-eng/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabriel-serra-eng/Gabriel-serra-eng/output/snake-light.svg" />
+  <img alt="Cobrinha percorrendo o gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/Gabriel-serra-eng/Gabriel-serra-eng/output/snake-dark.svg" width="100%" />
+</picture>
+
 ---
 
 <div align="center">
@@ -157,8 +170,8 @@ Uso agentes de IA em etapas definidas, e cada etapa deixa um documento no reposi
 **Quer conversar sobre um projeto ou uma vaga?**
 
 [![bielstrategy.com](https://img.shields.io/badge/bielstrategy.com-E21D48?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bielstrategy.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santos-315397150/)
-[![Instagram](https://img.shields.io/badge/@biel.strategy-1a1a1a?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/biel.strategy/)
-[![Facebook](https://img.shields.io/badge/Facebook-1a1a1a?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61581976716136)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santos-315397150/)
+[![Instagram](https://img.shields.io/badge/@biel.strategy-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/biel.strategy/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61581976716136)
 
 </div>
