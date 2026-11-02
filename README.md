@@ -156,7 +156,9 @@ Uso agentes de IA em etapas definidas, e cada etapa deixa um documento no reposi
 
 **Quer conversar sobre um projeto ou uma vaga?**
 
-[![bielstrategy.com](https://img.shields.io/badge/bielstrategy.com-E21D48?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bielstrategy.com)
-<!-- Adicione seu LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO) -->
+[![bielstrategy.com](https://img.shields.io/badge/bielstrategy.com-E21D48?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bielstrategy.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santos-315397150/)
+[![Instagram](https://img.shields.io/badge/@biel.strategy-1a1a1a?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/biel.strategy/)
+[![Facebook](https://img.shields.io/badge/Facebook-1a1a1a?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61581976716136)
 
 </div>
