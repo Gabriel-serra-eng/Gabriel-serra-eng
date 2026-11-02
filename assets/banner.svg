@@ -33,19 +33,19 @@
       </path>
       <g>
         <circle cx="80" cy="290" r="7" fill="#0A0A0A" stroke="#E21D48" stroke-width="2"/>
-        <text x="80" y="322" fill="#8C8C8C" text-anchor="start">ANÚNCIO</text>
+        <text x="80" y="322" fill="#B3B3B3" text-anchor="start">ANÚNCIO</text>
       </g>
       <g>
         <circle cx="340" cy="290" r="7" fill="#0A0A0A" stroke="#E21D48" stroke-width="2"/>
-        <text x="340" y="322" fill="#8C8C8C" text-anchor="middle">UTM · GCLID · FBCLID</text>
+        <text x="340" y="322" fill="#B3B3B3" text-anchor="middle">CLIQUE RASTREADO</text>
       </g>
       <g>
         <circle cx="600" cy="290" r="7" fill="#0A0A0A" stroke="#E21D48" stroke-width="2"/>
-        <text x="600" y="322" fill="#8C8C8C" text-anchor="middle">PRÉ-DIAGNÓSTICO</text>
+        <text x="600" y="322" fill="#B3B3B3" text-anchor="middle">QUALIFICAÇÃO</text>
       </g>
       <g>
         <circle cx="860" cy="290" r="7" fill="#0A0A0A" stroke="#E21D48" stroke-width="2"/>
-        <text x="860" y="322" fill="#8C8C8C" text-anchor="middle">POSTGRES · RLS</text>
+        <text x="860" y="322" fill="#B3B3B3" text-anchor="middle">CONTATO SALVO</text>
       </g>
       <g>
         <circle cx="1120" cy="290" r="9" fill="#E21D48"/>

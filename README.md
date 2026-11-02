@@ -4,7 +4,7 @@
 
 <br />
 
-<a href="https://bielstrategy.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1200&color=E21D48&center=true&vCenter=true&width=640&lines=Tr%C3%A1fego+pago+que+vira+lead+qualificado;Sites+e+funis+em+Next.js+%2B+Supabase;Desenvolvimento+conduzido+com+agentes+de+IA" alt="Tráfego pago que vira lead qualificado · Sites e funis em Next.js + Supabase · Desenvolvimento conduzido com agentes de IA" /></a>
+<a href="https://bielstrategy.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1200&color=E21D48&center=true&vCenter=true&width=640&lines=Tr%C3%A1fego+pago+que+vira+cliente;Sites+que+transformam+visitas+em+contatos;Tecnologia+e+IA+a+servi%C3%A7o+das+vendas" alt="Tráfego pago que vira cliente · Sites que transformam visitas em contatos · Tecnologia e IA a serviço das vendas" /></a>
 
 <br />
 
