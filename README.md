@@ -155,7 +155,12 @@ Uso agentes de IA em etapas definidas, e cada etapa deixa um documento no reposi
 
 ---
 
-<img src="./assets/numeros.svg" alt="Em números: 1 site em produção, cerca de 7.200 linhas de TypeScript e CSS, 2 migrations SQL com RLS, 40 commits com Claude Code. Linguagens: TypeScript 80,6%, CSS 16,7%, SQL 1,8%, JavaScript 1,0%." width="100%" />
+## Atividade
+
+<p>
+  <img src="https://raw.githubusercontent.com/Gabriel-serra-eng/Gabriel-serra-eng/output/atividade.svg" alt="Atividade no GitHub nos últimos 12 meses: contribuições, commits, pull requests e repositórios públicos, com gráfico semanal" width="49%" />
+  <img src="https://raw.githubusercontent.com/Gabriel-serra-eng/Gabriel-serra-eng/output/linguagens.svg" alt="Linguagens mais usadas nos repositórios públicos" width="49%" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabriel-serra-eng/Gabriel-serra-eng/output/snake-dark.svg" />
