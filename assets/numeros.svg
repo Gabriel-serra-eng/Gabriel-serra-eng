@@ -35,6 +35,6 @@
     <circle cx="274" cy="227" r="5" fill="#8C8C8C"/><text x="286" y="233" fill="#B3B3B3">CSS 16,7%</text>
     <circle cx="434" cy="227" r="5" fill="#4A4A4A"/><text x="446" y="233" fill="#B3B3B3">SQL 1,8%</text>
     <circle cx="584" cy="227" r="5" fill="#E6E6E6"/><text x="596" y="233" fill="#B3B3B3">JavaScript 1,0%</text>
-    <text x="1152" y="233" fill="#6E6E6E" text-anchor="end">exclui pacotes de terceiros em .agents/</text>
+    <text x="1152" y="233" fill="#6E6E6E" text-anchor="end">sem pacotes de terceiros</text>
   </g>
 </svg>
