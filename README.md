@@ -139,7 +139,7 @@ Uso agentes de IA em etapas definidas, e cada etapa deixa um documento no reposi
 <tr><td><b>Dados e infraestrutura</b></td><td>
 
 <img src="https://skillicons.dev/icons?i=supabase,postgres,git,github&theme=dark" alt="Supabase, Postgres, Git, GitHub" height="40" />
-&nbsp;
+
 ![Resend](https://img.shields.io/badge/Resend-1a1a1a?style=flat-square&logo=resend&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-1a1a1a?style=flat-square&logo=zod&logoColor=white)
 
