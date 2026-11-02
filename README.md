@@ -1,72 +1,162 @@
 <div align="center">
 
-# Gabriel Serra
+<img src="./assets/banner.svg" alt="Gabriel Serra. Marketing, IA, tecnologia e automação: sistemas de aquisição de clientes, do anúncio ao lead qualificado." width="100%" />
 
-**Desenvolvedor Full Stack Júnior · Next.js & TypeScript · Desenvolvimento assistido por IA**
+<br />
 
-Construo sites e fluxos de aquisição de clientes que vão para produção: formulários de qualificação, captura de leads em banco, atribuição de campanha e LGPD. Venho do marketing de performance e uso agentes de IA como parte do meu processo de engenharia, com pesquisa, especificação, implementação e auditoria documentadas.
-
-[![Site](https://img.shields.io/badge/bielstrategy.com-no%20ar-0b0b0f?style=flat-square)](https://bielstrategy.com)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-149eca?style=flat-square&logo=react&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square&logo=supabase&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-d97757?style=flat-square&logo=anthropic&logoColor=white)
+<a href="https://bielstrategy.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1200&color=E21D48&center=true&vCenter=true&width=640&lines=Tr%C3%A1fego+pago+que+vira+lead+qualificado;Sites+e+funis+em+Next.js+%2B+Supabase;Desenvolvimento+conduzido+com+agentes+de+IA" alt="Tráfego pago que vira lead qualificado · Sites e funis em Next.js + Supabase · Desenvolvimento conduzido com agentes de IA" /></a>
 
 </div>
+
+## Sobre
+
+Venho do marketing de performance. Gerencio campanhas de Meta Ads e Google Ads para negócios locais e percebi que boa parte dos resultados se perdia **depois do clique**: páginas que não qualificam, leads sem origem, contatos que somem.
+
+Por isso passei a construir a parte técnica do funil. Hoje desenvolvo sites e fluxos de captação em **Next.js, TypeScript e Supabase**, com rastreamento de campanha, qualificação em etapas e LGPD, e conduzo esse desenvolvimento **com agentes de IA**: escrevo a pesquisa e a especificação, o agente implementa, e eu valido com auditoria.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Marketing e growth**
+
+Meta Ads e Google Ads para negócios locais · funis anúncio → WhatsApp → oportunidade · atribuição com UTM e click IDs
+
+</td>
+<td width="33%" valign="top">
+
+**Tecnologia**
+
+Sites e landing pages em Next.js · Server Actions · Postgres com Row Level Security · validação com Zod · SEO técnico
+
+</td>
+<td width="33%" valign="top">
+
+**IA no processo**
+
+Claude Code para implementar · Claude Design para prototipar · Antigravity para auditar · especificações escritas para agentes
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Projetos em destaque
 
-| Projeto | O que é | Estado | Destaques técnicos |
-|---|---|---|---|
-| [**biel-strategy**](https://github.com/Gabriel-serra-eng/biel-strategy) | Site profissional com captação de leads qualificados | **Em produção** · [bielstrategy.com](https://bielstrategy.com) | Next.js 16 · Server Actions · Supabase com RLS · Zod · rate limit · UTM/gclid/fbclid · LGPD · SEO técnico |
-| [**VYRO-web**](https://github.com/Gabriel-serra-eng/VYRO-web) | Site institucional de uma agência de growth | Em desenvolvimento | Conteúdo desacoplado do código · Resend com fallback para WhatsApp · GTM/Pixel só após consentimento |
-| [**landing-restaurante-vsl**](https://github.com/Gabriel-serra-eng/landing-restaurante-vsl) | Landing page com VSL e formulário de qualificação | Protótipo | Formulário em 8 etapas · score de lead no servidor · preço revelado só no final |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [biel-strategy](https://github.com/Gabriel-serra-eng/biel-strategy)
+`em produção` · **[bielstrategy.com](https://bielstrategy.com)**
+
+Site profissional que funciona como canal de aquisição. Formulário de pré-diagnóstico em 8 etapas que grava cada lead no Supabase com origem de campanha (`utm_*`, `gclid`, `fbclid`) e consentimento LGPD. A chave pública só consegue inserir, nunca ler, por RLS.
+
+`Next.js 16` `TypeScript` `Supabase` `Zod` `GSAP`
+
+</td>
+<td width="50%" valign="top">
+
+### [VYRO-web](https://github.com/Gabriel-serra-eng/VYRO-web)
+`em desenvolvimento`
+
+Site de uma agência de growth para clínicas e serviços locais. Captação com Server Action e e-mail via Resend, com fallback para WhatsApp quando o envio falha. GTM e Meta Pixel só carregam depois do consentimento.
+
+`Next.js 15` `Tailwind 4` `Resend` `React Hook Form`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [landing-restaurante-vsl](https://github.com/Gabriel-serra-eng/landing-restaurante-vsl)
+`protótipo`
+
+Landing com VSL e formulário que escala o compromisso: perguntas leves primeiro, faturamento e orçamento depois, preço só no final. O servidor classifica o lead como Hot, Warm ou Cold e escolhe o evento de conversão.
+
+`Next.js 16` `Tailwind 4` `Zod` `Framer Motion`
+
+</td>
+<td width="50%" valign="top">
+
+### Case de tráfego · Cássia Beleza & Cachos
+`Meta Ads` · **[ver no site](https://bielstrategy.com)**
+
+Estruturação e gestão da campanha de Meta Ads de um salão, da segmentação aos criativos, com funil anúncio → clique → WhatsApp → oportunidade. **129 contatos iniciados pelo WhatsApp** a partir dos anúncios.
+
+`Meta Ads` `WhatsApp` `Funil local`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## AI-Assisted Engineering
+## IA no meu processo de desenvolvimento
 
-Uso IA como parte do processo de engenharia, com etapas e artefatos versionados. Cada item abaixo tem evidência no repositório indicado.
+Uso agentes de IA em etapas definidas, e cada etapa deixa um documento no repositório. Nenhum destes projetos chama um modelo em tempo de execução: a IA está na **construção**, não dentro do produto.
 
-| Competência | Como aparece no meu trabalho | Evidência |
+| Etapa | Ferramenta | Evidência |
 |---|---|---|
-| **Desenvolvimento assistido por IA** | Implementação conduzida com Claude Code a partir de especificações escritas antes do código | Histórico de commits do `biel-strategy` (co-autoria registrada) |
-| **Context Engineering** | Documentos-fonte que o agente precisa seguir: conteúdo auditado, contrato técnico, regras de fidelidade ao design e de segurança | `RESEARCH.md`, `IMPLEMENTATION.md`, `CLAUDE.md` |
-| **Especificação antes da implementação** | PRD → specs → plano de implementação antes de qualquer componente | `PRD.md`, `SPECS.md`, `VYRO_FRONTEND_IMPLEMENTATION_PLAN.md` |
-| **Fluxo com várias ferramentas de IA** | Claude Design para o protótipo, Claude Code para o código, Antigravity para auditar o resultado | `IMPLEMENTATION.md`, `SITE_PROJECT_CONTEXT_ANTIGRAVITY.md` |
-| **Pesquisa técnica com agentes** | Comparação de arquiteturas (Sheets × Supabase × Firebase × CRM) com fontes citadas e pontos não confirmados sinalizados | `LEAD_SYSTEM_RESEARCH.md` |
-| **Verificação do que a IA produz** | Auditoria independente que apontou o que *não* estava implementado (tags de mídia, integração com CRM) | `SITE_PROJECT_CONTEXT_ANTIGRAVITY.md` |
-| **Skills de agente para testes** | Skill de testes com Playwright configurada para o agente validar a interface | `VYRO-web/.agents/skills/webapp-testing` |
-
-> Nenhum dos projetos acima chama um modelo de IA em tempo de execução. A IA está no **processo** de construção, não dentro do produto.
+| Pesquisa e fonte de verdade do conteúdo | Apoio de IA na organização | [`RESEARCH.md`](https://github.com/Gabriel-serra-eng/biel-strategy/blob/master/RESEARCH.md) |
+| Protótipo visual | Claude Design | Design tokens do `biel-strategy` |
+| Contrato técnico para o agente | Escrito antes do código | [`IMPLEMENTATION.md`](https://github.com/Gabriel-serra-eng/biel-strategy/blob/master/IMPLEMENTATION.md) |
+| Implementação | Claude Code | 40 commits com co-autoria registrada |
+| Pesquisa de arquitetura | Agente de pesquisa, com fontes citadas | [`LEAD_SYSTEM_RESEARCH.md`](https://github.com/Gabriel-serra-eng/biel-strategy/blob/master/LEAD_SYSTEM_RESEARCH.md) |
+| Auditoria do que foi implementado | Antigravity | [`SITE_PROJECT_CONTEXT_ANTIGRAVITY.md`](https://github.com/Gabriel-serra-eng/biel-strategy/blob/master/SITE_PROJECT_CONTEXT_ANTIGRAVITY.md) |
 
 ---
 
-## Stack
+## Ferramentas
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,postgres,git,github&theme=dark" alt="Next.js, React, TypeScript, Tailwind, Supabase, Postgres, Git, GitHub" />
-</p>
+<table>
+<tr><td width="24%"><b>Inteligência Artificial</b></td><td>
 
-**Front-end:** Next.js (App Router) · React 19 · TypeScript · Tailwind CSS 4 · CSS com design tokens · GSAP · Motion
-**Back-end e dados:** Server Actions · Supabase (Postgres, Row Level Security, migrations) · Zod · React Hook Form · Resend
-**Aquisição e marketing técnico:** UTM e click IDs · Google Tag Manager · Meta Pixel com consentimento · SEO técnico · Meta Ads
-**IA no desenvolvimento:** Claude Code · Claude Design · Antigravity · skills de agente
+![Claude Code](https://img.shields.io/badge/Claude_Code-1a1a1a?style=flat-square&logo=claude&logoColor=E21D48)
+![Claude Design](https://img.shields.io/badge/Claude_Design-1a1a1a?style=flat-square&logo=claude&logoColor=E21D48)
+![Antigravity](https://img.shields.io/badge/Antigravity-1a1a1a?style=flat-square&logo=google&logoColor=E21D48)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-1a1a1a?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-1a1a1a?style=flat-square&logo=googlegemini&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/AI_Studio-1a1a1a?style=flat-square&logo=google&logoColor=white)
+
+<sub>Destacadas em vermelho: usadas no desenvolvimento dos projetos acima. As demais: uso no dia a dia, para pesquisa e copy.</sub>
+</td></tr>
+<tr><td><b>Desenvolvimento</b></td><td>
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Node.js, Tailwind" height="40" />
+
+</td></tr>
+<tr><td><b>Marketing digital</b></td><td>
+
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-1a1a1a?style=flat-square&logo=meta&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-1a1a1a?style=flat-square&logo=googleads&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/Tag_Manager-1a1a1a?style=flat-square&logo=googletagmanager&logoColor=white)
+![Meta Pixel](https://img.shields.io/badge/Meta_Pixel-1a1a1a?style=flat-square&logo=meta&logoColor=white)
+![GA4](https://img.shields.io/badge/GA4_(estudando)-1a1a1a?style=flat-square&logo=googleanalytics&logoColor=white)
+
+</td></tr>
+<tr><td><b>Dados e infraestrutura</b></td><td>
+
+<img src="https://skillicons.dev/icons?i=supabase,postgres,git,github&theme=dark" alt="Supabase, Postgres, Git, GitHub" height="40" />
+&nbsp;
+![Resend](https://img.shields.io/badge/Resend-1a1a1a?style=flat-square&logo=resend&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-1a1a1a?style=flat-square&logo=zod&logoColor=white)
+
+</td></tr>
+</table>
 
 ---
 
-## Contato
+<img src="./assets/numeros.svg" alt="Em números: 1 site em produção, cerca de 7.200 linhas de TypeScript e CSS, 2 migrations SQL com RLS, 40 commits com Claude Code. Linguagens: TypeScript 80,6%, CSS 16,7%, SQL 1,8%, JavaScript 1,0%." width="100%" />
 
-[![Site](https://img.shields.io/badge/bielstrategy.com-0b0b0f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bielstrategy.com)
-<!-- Preencha com seus links reais antes de publicar; apague as linhas que não usar -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO) -->
-<!-- [![E-mail](https://img.shields.io/badge/E--mail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL) -->
+---
 
-<!-- Estatísticas do GitHub (github-readme-stats): só ative depois de tornar os repositórios públicos,
-     senão o card mostra números perto de zero. -->
-<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-serra-eng&show_icons=true&theme=transparent) -->
-<!-- ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-serra-eng&layout=compact&theme=transparent) -->
+<div align="center">
+
+**Quer conversar sobre um projeto ou uma vaga?**
+
+[![bielstrategy.com](https://img.shields.io/badge/bielstrategy.com-E21D48?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bielstrategy.com)
+<!-- Adicione seu LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO) -->
+
+</div>

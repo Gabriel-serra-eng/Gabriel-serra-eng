@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="t d">
+  <title id="t">Em números</title>
+  <desc id="d">Código próprio dos 3 projetos, medido em 02/11/2026: 1 site em produção, cerca de 7.200 linhas de TypeScript e CSS, 2 migrations SQL com RLS, 40 commits com Claude Code. Linguagens: TypeScript 80,6%, CSS 16,7%, SQL 1,8%, JavaScript 1,0%.</desc>
+  <rect width="1200" height="260" rx="18" fill="#0A0A0A"/>
+  <rect x="0.5" y="0.5" width="1199" height="259" rx="17.5" fill="none" stroke="#242424"/>
+
+  <g font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace">
+    <text x="48" y="52" fill="#E21D48" font-size="13" font-weight="600" letter-spacing="3">EM NÚMEROS</text>
+    <text x="1152" y="52" fill="#6E6E6E" font-size="12" text-anchor="end">código próprio dos 3 projetos · medido em 02/11/2026</text>
+  </g>
+
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <text x="48" y="118" fill="#FFFFFF" font-size="44" font-weight="700">1</text>
+    <text x="48" y="144" fill="#8C8C8C" font-size="15">site em produção</text>
+
+    <text x="320" y="118" fill="#FFFFFF" font-size="44" font-weight="700">~7.200</text>
+    <text x="320" y="144" fill="#8C8C8C" font-size="15">linhas de TypeScript e CSS</text>
+
+    <text x="620" y="118" fill="#FFFFFF" font-size="44" font-weight="700">2</text>
+    <text x="620" y="144" fill="#8C8C8C" font-size="15">migrations SQL com RLS</text>
+
+    <text x="880" y="118" fill="#FFFFFF" font-size="44" font-weight="700">40</text>
+    <text x="880" y="144" fill="#8C8C8C" font-size="15">commits com Claude Code</text>
+  </g>
+
+  <!-- barra de linguagens: largura útil 1104px a partir de x=48 -->
+  <g>
+    <rect x="48" y="176" width="890" height="10" fill="#E21D48"/>
+    <rect x="938" y="176" width="184" height="10" fill="#8C8C8C"/>
+    <rect x="1122" y="176" width="20" height="10" fill="#4A4A4A"/>
+    <rect x="1142" y="176" width="10" height="10" fill="#E6E6E6"/>
+  </g>
+  <g font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" font-size="13">
+    <circle cx="54" cy="219" r="5" fill="#E21D48"/><text x="66" y="224" fill="#B3B3B3">TypeScript 80,6%</text>
+    <circle cx="254" cy="219" r="5" fill="#8C8C8C"/><text x="266" y="224" fill="#B3B3B3">CSS 16,7%</text>
+    <circle cx="404" cy="219" r="5" fill="#4A4A4A"/><text x="416" y="224" fill="#B3B3B3">SQL 1,8%</text>
+    <circle cx="544" cy="219" r="5" fill="#E6E6E6"/><text x="556" y="224" fill="#B3B3B3">JavaScript 1,0%</text>
+    <text x="1152" y="224" fill="#6E6E6E" text-anchor="end">exclui pacotes de terceiros em .agents/</text>
+  </g>
+</svg>

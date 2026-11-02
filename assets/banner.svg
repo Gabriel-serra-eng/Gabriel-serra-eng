@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="t d">
+  <title id="t">Gabriel Serra</title>
+  <desc id="d">Marketing, IA, tecnologia e automação. Sistemas de aquisição de clientes, do anúncio ao lead qualificado.</desc>
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#242424"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#E21D48" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#E21D48" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame"><rect width="1200" height="360" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="#0A0A0A"/>
+    <rect width="1200" height="360" fill="url(#dots)"/>
+
+    <!-- eclipse: símbolo da marca Biel Strategy -->
+    <circle cx="1058" cy="112" r="120" fill="url(#glow)"/>
+    <circle cx="1058" cy="112" r="58" fill="#E21D48"/>
+    <circle cx="1040" cy="100" r="58" fill="#0A0A0A"/>
+
+    <text x="64" y="76" fill="#E21D48" font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" font-size="15" font-weight="600" letter-spacing="3">MARKETING × IA × TECNOLOGIA × AUTOMAÇÃO</text>
+    <text x="62" y="146" fill="#FFFFFF" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="-1.5">Gabriel Serra</text>
+    <text x="64" y="188" fill="#B3B3B3" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22">Construo sistemas de aquisição de clientes, do anúncio ao lead qualificado,</text>
+    <text x="64" y="218" fill="#B3B3B3" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22">com desenvolvimento assistido por IA.</text>
+
+    <!-- funil real do biel-strategy, desenhado como circuito -->
+    <g font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" font-size="13" letter-spacing="1.5">
+      <path id="flow" d="M 80 290 H 1120" stroke="#2E2E2E" stroke-width="2" fill="none"/>
+      <path d="M 80 290 H 1120" stroke="#E21D48" stroke-width="2" fill="none" stroke-dasharray="6 14" opacity="0.6">
+        <animate attributeName="stroke-dashoffset" from="40" to="0" dur="1.6s" repeatCount="indefinite"/>
+      </path>
+      <g>
+        <circle cx="80" cy="290" r="7" fill="#0A0A0A" stroke="#E21D48" stroke-width="2"/>
+        <text x="80" y="322" fill="#8C8C8C" text-anchor="start">ANÚNCIO</text>
+      </g>
+      <g>
+        <circle cx="340" cy="290" r="7" fill="#0A0A0A" stroke="#E21D48" stroke-width="2"/>
+        <text x="340" y="322" fill="#8C8C8C" text-anchor="middle">UTM · GCLID · FBCLID</text>
+      </g>
+      <g>
+        <circle cx="600" cy="290" r="7" fill="#0A0A0A" stroke="#E21D48" stroke-width="2"/>
+        <text x="600" y="322" fill="#8C8C8C" text-anchor="middle">PRÉ-DIAGNÓSTICO</text>
+      </g>
+      <g>
+        <circle cx="860" cy="290" r="7" fill="#0A0A0A" stroke="#E21D48" stroke-width="2"/>
+        <text x="860" y="322" fill="#8C8C8C" text-anchor="middle">POSTGRES · RLS</text>
+      </g>
+      <g>
+        <circle cx="1120" cy="290" r="9" fill="#E21D48"/>
+        <text x="1120" y="322" fill="#FFFFFF" text-anchor="end">OPORTUNIDADE</text>
+      </g>
+      <circle r="5" fill="#FFFFFF">
+        <animateMotion dur="5s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
+          <mpath href="#flow"/>
+        </animateMotion>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.92;1" dur="5s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+</svg>
